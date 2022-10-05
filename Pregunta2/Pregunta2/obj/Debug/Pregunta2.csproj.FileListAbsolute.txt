@@ -1,0 +1,21 @@
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta2\bin\Debug\Pregunta2.exe.config
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta2\bin\Debug\Pregunta2.exe
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta2\bin\Debug\Pregunta2.pdb
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta2\obj\Debug\Pregunta2.csprojResolveAssemblyReference.cache
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta2\obj\Debug\Pregunta2.Form1.resources
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta2\obj\Debug\Pregunta2.Properties.Resources.resources
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta2\obj\Debug\Pregunta2.csproj.GenerateResource.Cache
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta2\obj\Debug\Pregunta2.exe
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta2\obj\Debug\Pregunta2.pdb
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta2\Pregunta2\bin\Debug\Pregunta2.exe.config
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta2\Pregunta2\obj\Debug\Pregunta2.exe
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta2\Pregunta2\obj\Debug\Pregunta2.pdb
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta2\Pregunta2\bin\Debug\Pregunta2.exe
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta2\Pregunta2\bin\Debug\Pregunta2.pdb
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta2\Pregunta2\obj\Debug\Pregunta2.csprojResolveAssemblyReference.cache
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta2\Pregunta2\obj\Debug\Pregunta2.Form1.resources
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta2\Pregunta2\obj\Debug\Pregunta2.Properties.Resources.resources
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta2\Pregunta2\obj\Debug\Pregunta2.csproj.GenerateResource.Cache
+C:\Users\Castillo\Desktop\1P-INF-319\Pregunta2\Pregunta2\bin\Debug\Pregunta2.exe.config
+C:\Users\Castillo\Desktop\1P-INF-319\Pregunta2\Pregunta2\obj\Debug\Pregunta2.exe
+C:\Users\Castillo\Desktop\1P-INF-319\Pregunta2\Pregunta2\obj\Debug\Pregunta2.pdb
