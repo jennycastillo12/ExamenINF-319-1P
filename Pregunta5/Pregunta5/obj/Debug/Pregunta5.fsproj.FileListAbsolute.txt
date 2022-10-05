@@ -1,0 +1,10 @@
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta5\Pregunta5\bin\Debug\Pregunta5.exe.config
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta5\Pregunta5\bin\Debug\Pregunta5.XML
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta5\Pregunta5\bin\Debug\Pregunta5.exe
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta5\Pregunta5\bin\Debug\Pregunta5.pdb
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta5\Pregunta5\bin\Debug\FSharp.Core.dll
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta5\Pregunta5\bin\Debug\FSharp.Core.xml
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta5\Pregunta5\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta5\Pregunta5\obj\Debug\Pregunta5.exe
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta5\Pregunta5\obj\Debug\Pregunta5.pdb
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta5\Pregunta5\bin\Debug\Program.fs
