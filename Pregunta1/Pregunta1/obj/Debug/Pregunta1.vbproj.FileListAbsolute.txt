@@ -1,0 +1,20 @@
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta1\bin\Debug\Pregunta1.exe.config
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta1\bin\Debug\Pregunta1.exe
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta1\bin\Debug\Pregunta1.pdb
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta1\bin\Debug\Pregunta1.xml
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta1\obj\Debug\Pregunta1.Form1.resources
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta1\obj\Debug\Pregunta1.Resources.resources
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta1\obj\Debug\Pregunta1.vbproj.GenerateResource.Cache
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta1\obj\Debug\Pregunta1.exe
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta1\obj\Debug\Pregunta1.xml
+C:\Users\Castillo\AppData\Local\Temporary Projects\Pregunta1\obj\Debug\Pregunta1.pdb
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta1\Pregunta1\bin\Debug\Pregunta1.exe.config
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.exe
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.xml
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.pdb
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta1\Pregunta1\bin\Debug\Pregunta1.exe
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta1\Pregunta1\bin\Debug\Pregunta1.pdb
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta1\Pregunta1\bin\Debug\Pregunta1.xml
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.Resources.resources
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.vbproj.GenerateResource.Cache
+C:\Users\Castillo\Documents\Visual Studio 2012\Projects\Pregunta1\Pregunta1\obj\Debug\Pregunta1.OrdenaMayMen.resources
