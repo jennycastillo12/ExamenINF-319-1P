@@ -1,0 +1,10 @@
+from pyswip import Prolog
+prolog = Prolog()
+
+prolog.assertz("padre(juan,maria)")
+prolog.assertz("padre(juan,julio)")
+
+#list(prolog.query("padre(juan,X)"))==[{"X":"maria"},{"Y":"julio"}]
+
+for elemento in prolog.query("padre(X,Y)"):
+    print(elemento["X"], "es el padre de ",elemento["Y"])
